@@ -17,34 +17,36 @@
 </div>
 <br>
 
+
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luhbatista/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/eulubatista_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:lu.assis.la@gmail.com)
 <br>
 
-## 💼 Ferramentas que eu uso hoje
-<img width="40px" src="https://user-images.githubusercontent.com/95966908/154862938-254348e1-4291-448c-95ba-2daba1b33fb9.png" title = "Excel"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title= "Canva"/></code> 
-<br>
+##  Ferramentas que eu uso hoje
+<div style="display: inline_block">
+  <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+</div>
 
-## 💻 o que eu estou estudando
-<img width="40px" src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" title="SQL Server"></code>
-<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI"> </code>
-<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" title="GitHub"> </code>
-<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python"> </code>
-<br>
+##  O que eu estou estudando
+<div style="display: inline_block">
+  <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img align="center" alt="Microsoft Power BI" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
 
 <details align="left">
   <summary></summary> 
  
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - Badges by <a href="https://dev.to/envoy_/150-badges-for-github-pnk">Badges</a>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Video Youtube <a href="https://www.youtube.com/watch?v=cRoBt6AZgjc&t=50s">Sujeito Programador</a>
   </details>
+  
 
 
 <img width=100% src="https://github.com/alra-code/alra-code/assets/172554284/06e98a1a-1398-4261-b992-cd26ab08aef8"/>
 
-
-
-  </details>
