@@ -45,5 +45,7 @@ Pensamento Computacional - IF ES | [Certificado](https://drive.google.com/file/d
 Excel Avançado - Universo BI | [Certificado](https://drive.google.com/file/d/1Am29tqAzPUjSIXCokKD2Is-tyOmcjp7G/view?usp=drive_link)
 SQL Avançado - Universo BI | [Certificado](https://drive.google.com/file/d/1tjOCBiLqxcY9qSId3liPieLV89d4UmcP/view?usp=drive_link)
 Análise de dados com Python - PrograMaria |[Certificado](https://drive.google.com/file/d/1AMfKTaijIfHVFzMFNi548pzZgcZczYch/view?usp=drive_link)
+Certificado Profissional de análise de dados  - Google |[Certificado](https://www.credly.com/badges/226003fa-7184-42c2-aa6e-3bfc2328351f/print)
+
 
 
