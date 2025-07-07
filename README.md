@@ -11,10 +11,10 @@ Aqui você vai encontrar meus projetos, estudos e experimentos enquanto construo
 
 📂 Meus Repositórios em Destaque
 
-### 🔹Projetos_PowerBI_Data_Analytics
+### 🔹[Projetos_PowerBI_Data_Analytics](https://github.com/alra-code/Projetos_PowerBI_Data_Analytics)
 Painéis interativos e análises com Power BI aplicadas a cenários de negócios. Ideal para visualizar insights de forma clara e estratégica.
 
-### 🔹Portifolio_python
+### 🔹[Portifolio_python](https://github.com/alra-code/Portifolio_python)
 Scripts e análises com Python, explorando dados, tratamento e visualizações — tudo voltado para o desenvolvimento de habilidades práticas na área de dados.
 
 ## 👩‍🎓 Certificados:
