@@ -1,38 +1,21 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-  <strong> 🖐 Olá, eu sou a Luciana </strong>
-<div align="center">
-  Olá! Meu nome é Luciana, mas todos me chamam de Lu. Tenho uma trajetória diversificada na indústria, começando pela cosmética, passando pela petrolífera, e atualmente atuo na indústria de alimentos como analista de laboratório de processos.👩🏻‍🔬🧪<p></p>
-  Recentemente, comecei a estudar análise de dados com o objetivo de fazer uma transição de carreira. Meu objetivo é trabalhar de forma mais eficiente e com tecnologia, aplicando meu conhecimento e experiência de maneira mais produtiva. Estou empolgada para explorar novas oportunidades e desafios que a análise de dados pode oferecer.
-</div>
-</p>
-<br>
-<p align="left">
-  🦄 Linguagens:  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+👋 Oi, eu sou a Lu — Analista de laboratório de processos e futura analista de dados!
+Minha jornada começou na indústria de cosméticos, passou pelo petróleo e hoje estou na indústria de alimentos. Sempre fui movida por curiosidade, melhoria contínua e vontade de aprender.
 
-<p align="left">
-  💼 Ferramentas que uso: 
-  <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-   <img align="center" alt="Looker Studio" src="https://img.shields.io/badge/Looker_Studio-1877F2?style=for-the-badge&logo=Looker&Studio&logoColor=white" />
-  <img align="center" alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
- 
-</p>
+Agora, estou mergulhando no mundo da Análise de Dados, aprendendo tecnologias como:
 
-<p align="left">
-  🤓 Ferramentas que estou estudando: 
-  <img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img align="center" alt="Microsoft Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  
-</p>
+📊 Power BI |  🐍 Python | 🧮 SQL | 📈 Excel avançado
 
-<p align="left">
-  💌 Onde me encontrar: 
-  <a href="mailto:lu.assis.la@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/luhbatista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://github.com/alra-code"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "https://www.instagram.com/eulubatista_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+Aqui você vai encontrar meus projetos, estudos e experimentos enquanto construo meu portfólio e dou meus primeiros passos nessa nova fase.
+
+🌱 Em transição de carreira — buscando trabalhar com mais eficiência, propósito e tecnologia.
+
+📂 Meus Repositórios em Destaque
+
+### 🔹Projetos_PowerBI_Data_Analytics
+Painéis interativos e análises com Power BI aplicadas a cenários de negócios. Ideal para visualizar insights de forma clara e estratégica.
+
+### 🔹Portifolio_python
+Scripts e análises com Python, explorando dados, tratamento e visualizações — tudo voltado para o desenvolvimento de habilidades práticas na área de dados.
 
 ## 👩‍🎓 Certificados:
 
