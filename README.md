@@ -28,6 +28,8 @@ Análise de dados com Python - PrograMaria | [Certificado](https://drive.google.
 Certificado Profissional de análise de dados  - Google | [Certificado](https://www.credly.com/badges/226003fa-7184-42c2-aa6e-3bfc2328351f/print)
 Data Analytics - Cisco | [Certificado](https://www.credly.com/badges/aa61715d-07db-4a46-ab1f-7a9920673409/linked_in_profile)
 OCI Fundations - Oracle | [Certificado](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8FF0AACD2E158D9B0646B03B3F8A96AD7CDC9439DD5866D5A2E53F8B06140A6B) 
+Inglês - Duolingo | [Perfil](https://www.duolingo.com/profile/Lucianarba210) 
+
 
 
 
