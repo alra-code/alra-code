@@ -1,9 +1,9 @@
 👋 Oi, eu sou a Lu — Analista de laboratório de processos e futura analista de dados!
-Minha jornada começou na indústria de cosméticos, passou pelo petróleo e hoje estou na indústria de alimentos. Sempre fui movida por curiosidade, melhoria contínua e vontade de aprender.
+Minha jornada começou na indústria de cosméticos, passou pelo petróleo e hoje estou na indústria de alimentos. Sempre fui curiosa, e adoro a melhoria contínua e sempre tive vontade de aprender cada vez mais.
 
-Agora, estou mergulhando no mundo da Análise de Dados, aprendendo tecnologias como:
+Agora, estou mergulhando no mundo dos Dados, aprendendo tecnologias como:
 
-📊 Power BI |  🐍 Python | 🧮 SQL | 📈 Excel avançado
+📊 Power BI |  🐍 Python | 🧮 SQL | 📈 Excel avançado | 📉 Tableau| ☁ Cloud
 
 Aqui você vai encontrar meus projetos, estudos e experimentos enquanto construo meu portfólio e dou meus primeiros passos nessa nova fase.
 
@@ -26,6 +26,8 @@ Excel Avançado - Universo BI | [Certificado](https://drive.google.com/file/d/1A
 SQL Avançado - Universo BI | [Certificado](https://drive.google.com/file/d/1tjOCBiLqxcY9qSId3liPieLV89d4UmcP/view?usp=drive_link)
 Análise de dados com Python - PrograMaria |[Certificado](https://drive.google.com/file/d/1AMfKTaijIfHVFzMFNi548pzZgcZczYch/view?usp=drive_link)
 Certificado Profissional de análise de dados  - Google |[Certificado](https://www.credly.com/badges/226003fa-7184-42c2-aa6e-3bfc2328351f/print)
+Data Analytics - Cisco |[Certificado](https://www.credly.com/badges/aa61715d-07db-4a46-ab1f-7a9920673409/linked_in_profile)
+OCI Fundations - Oracle | [Certificado]([https://www.credly.com/badges/aa61715d-07db-4a46-ab1f-7a9920673409/linked_in_profile](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8FF0AACD2E158D9B0646B03B3F8A96AD7CDC9439DD5866D5A2E53F8B06140A6B) 
 
 
 
