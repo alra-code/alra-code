@@ -3,7 +3,7 @@ Minha jornada começou na indústria de cosméticos, passou pelo petróleo e hoj
 
 Agora, estou mergulhando no mundo dos Dados, aprendendo tecnologias como:
 
-📊 Power BI |  🐍 Python | 🧮 SQL | 📈 Excel avançado | 📉 Tableau| ☁ Cloud
+📊 Power BI |  🐍 Python | 🧮 SQL | 📈 Excel avançado | 📉 Tableau | ☁ Cloud
 
 Aqui você vai encontrar meus projetos, estudos e experimentos enquanto construo meu portfólio e dou meus primeiros passos nessa nova fase.
 
@@ -24,10 +24,10 @@ Cursos   | Links
 Pensamento Computacional - IF ES | [Certificado](https://drive.google.com/file/d/18ewXWiY2-PBCrdb4JnJiiTmfK41kdhFm/view?usp=drive_link)
 Excel Avançado - Universo BI | [Certificado](https://drive.google.com/file/d/1Am29tqAzPUjSIXCokKD2Is-tyOmcjp7G/view?usp=drive_link)
 SQL Avançado - Universo BI | [Certificado](https://drive.google.com/file/d/1tjOCBiLqxcY9qSId3liPieLV89d4UmcP/view?usp=drive_link)
-Análise de dados com Python - PrograMaria |[Certificado](https://drive.google.com/file/d/1AMfKTaijIfHVFzMFNi548pzZgcZczYch/view?usp=drive_link)
-Certificado Profissional de análise de dados  - Google |[Certificado](https://www.credly.com/badges/226003fa-7184-42c2-aa6e-3bfc2328351f/print)
-Data Analytics - Cisco |[Certificado](https://www.credly.com/badges/aa61715d-07db-4a46-ab1f-7a9920673409/linked_in_profile)
-OCI Fundations - Oracle | [Certificado]([https://www.credly.com/badges/aa61715d-07db-4a46-ab1f-7a9920673409/linked_in_profile](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8FF0AACD2E158D9B0646B03B3F8A96AD7CDC9439DD5866D5A2E53F8B06140A6B) 
+Análise de dados com Python - PrograMaria | [Certificado](https://drive.google.com/file/d/1AMfKTaijIfHVFzMFNi548pzZgcZczYch/view?usp=drive_link)
+Certificado Profissional de análise de dados  - Google | [Certificado](https://www.credly.com/badges/226003fa-7184-42c2-aa6e-3bfc2328351f/print)
+Data Analytics - Cisco | [Certificado](https://www.credly.com/badges/aa61715d-07db-4a46-ab1f-7a9920673409/linked_in_profile)
+OCI Fundations - Oracle | [Certificado](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8FF0AACD2E158D9B0646B03B3F8A96AD7CDC9439DD5866D5A2E53F8B06140A6B) 
 
 
 
