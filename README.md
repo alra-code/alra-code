@@ -1,27 +1,46 @@
-👋 Oi, eu sou a Lu — Analista de laboratório de processos e futura analista de dados!
-Minha jornada começou na indústria de cosméticos, passou pelo petróleo e hoje estou na indústria de alimentos. Sempre fui curiosa, e adoro a melhoria contínua e sempre tive vontade de aprender cada vez mais.
+# 👋 Olá, eu sou a Luciana Batista (Lu)!
 
-Agora, estou mergulhando no mundo dos Dados, aprendendo tecnologias como:
+### 🧪 De Analista de Laboratório para 🏗️ Engenheira de Dados
+*Carioca em João Pessoa, apaixonada por transformar processos e descobrir padrões.*
 
-📊 Power BI |  🐍 Python | 🧮 SQL | 📈 Excel avançado | 📉 Tableau | ☁ Cloud
+Minha trajetória começou no rigor dos laboratórios das indústrias cosmética, petrolífera e de alimentos. Hoje, utilizo essa mesma mentalidade analítica e foco em melhoria contínua para construir o alicerce das decisões inteligentes: a **Engenharia de Dados**.
 
-Aqui você vai encontrar meus projetos, estudos e experimentos enquanto construo meu portfólio e dou meus primeiros passos nessa nova fase.
+---
 
-🌱 Em transição de carreira — buscando trabalhar com mais eficiência, propósito e tecnologia.
+### 🛠️ No que estou mergulhando agora:
 
-## 👩‍🎓 Certificados:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300000f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-Cursos   | Links 
---------- | ------
-Pensamento Computacional - IF ES | [Certificado](https://drive.google.com/file/d/18ewXWiY2-PBCrdb4JnJiiTmfK41kdhFm/view?usp=drive_link)
-Excel Avançado - Universo BI | [Certificado](https://drive.google.com/file/d/1Am29tqAzPUjSIXCokKD2Is-tyOmcjp7G/view?usp=drive_link)
-SQL Avançado - Universo BI | [Certificado](https://drive.google.com/file/d/1tjOCBiLqxcY9qSId3liPieLV89d4UmcP/view?usp=drive_link)
-Análise de dados com Python - PrograMaria | [Certificado](https://drive.google.com/file/d/1AMfKTaijIfHVFzMFNi548pzZgcZczYch/view?usp=drive_link)
-Certificado Profissional de análise de dados  - Google | [Certificado](https://www.credly.com/badges/226003fa-7184-42c2-aa6e-3bfc2328351f/print)
-Data Analytics - Cisco | [Certificado](https://www.credly.com/badges/aa61715d-07db-4a46-ab1f-7a9920673409/linked_in_profile)
-OCI Fundations - Oracle | [Certificado](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8FF0AACD2E158D9B0646B03B3F8A96AD7CDC9439DD5866D5A2E53F8B06140A6B) 
-Inglês - Duolingo | [Perfil](https://www.duolingo.com/profile/Lucianarba210) 
+* **Linguagens:** Python (Pandas, NumPy) e SQL (Consultas complexas e modelagem).
+* **BI & Visualização:** Power BI e Tableau (construindo dashboards que contam histórias).
+* **Cloud:** Estudando Fundamentos de OCI (Oracle Cloud Infrastructure).
+* **Foco:** Construção de pipelines de dados, ETL e automação de processos.
 
+---
 
+### 🎓 Conquistas & Certificações
 
+| Curso | Instituição | Status |
+| :--- | :--- | :--- |
+| **Certificado Profissional de Análise de Dados** | Google | ✅ Concluído |
+| **Fundamentos da OCI** | Oracle | ✅ Concluído |
+| **Análise de Dados com Python** | PrograMaria | ✅ Concluído |
+| **SQL & Excel Avançado** | Universo BI | ✅ Concluído |
+| **Ciência de Dados (Formação)** | Alura | ✅ Concluído |
+| **Mentoria em Engenharia de dados** | LStreinamentos-Luiz Santana (MVP-Microsoft) | ⏳ Em andamento |
+---
 
+### 📫 Vamos trocar uma ideia?
+Estou sempre aberta a colaborações em projetos de dados e networking sobre transição de carreira.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianabatista-dataeng/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eulubatista_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lu.assis.la@gmail.com)
+
+---
+*“A confiabilidade do resultado depende da integridade do processo.”*
