@@ -34,6 +34,13 @@ Minha trajetória começou no rigor dos laboratórios das indústrias cosmética
 | **Ciência de Dados (Formação)** | Alura | ✅ Concluído |
 | **Mentoria em Engenharia de dados** | LStreinamentos-Luiz Santana (MVP-Microsoft) | ⏳ Em andamento |
 ---
+📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alra-code&show_icons=true&theme=dracula" />
+</p>
+
+---
 
 ### 📫 Vamos trocar uma ideia?
 Estou sempre aberta a colaborações em projetos de dados e networking sobre transição de carreira.
@@ -43,4 +50,5 @@ Estou sempre aberta a colaborações em projetos de dados e networking sobre tra
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lu.assis.la@gmail.com)
 
 ---
+
 *“A confiabilidade do resultado depende da integridade do processo.”*
